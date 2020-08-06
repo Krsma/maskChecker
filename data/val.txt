@@ -1,0 +1,15 @@
+dataSet/test/blue.png
+dataSet/test/cnbc.jpg
+dataSet/test/cnn.jpg
+dataSet/test/cord.jpg
+dataSet/test/czech.jpg
+dataSet/test/italy.jpg
+dataSet/test/kid.jpg
+dataSet/test/kidsinschool.jpg
+dataSet/test/michelin.jpg
+dataSet/test/NYtimes.jpg
+dataSet/test/pentatonix.jpg
+dataSet/test/philipine.jpg
+dataSet/test/wire.jpg
+dataSet/test/yellow.jpg
+dataSet/test/washington.jpg
