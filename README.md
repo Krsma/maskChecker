@@ -9,9 +9,9 @@ The goal of this project is to develop a full system which can help in combating
 
 **Future goals**
 - [ ] Expanded data set 
-- [ ]   YoloV3 tiny version 
+- [ ] YoloV3 tiny version 
 - [ ] DLL/SO export 
-
+- [ ] A portable Raspberry Pi solution
 # Installation
 
 **Darknet installation**
@@ -40,6 +40,6 @@ If training from scratch you will require the  additional darknet53.conv.74 file
 
 **To detect on an image**
 
-`/darknet detector test data/yolo.data cfg/yolov3_custom_train.cfg backup/yolov3_custom_train.weights [IMAGE_PATH]`
+`./darknet detector test data/yolo.data cfg/yolov3_custom_train.cfg backup/yolov3_custom_train.weights [IMAGE_PATH]`
 
 For a more advanced tutorial refer to [the original Darknet repo](https://pjreddie.com/darknet/yolo/).
